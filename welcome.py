@@ -1,1 +1,1 @@
-print("Hello SMTS India Team")
+print("Hello India Team")
